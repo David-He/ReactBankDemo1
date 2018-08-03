@@ -38,3 +38,22 @@ p{
   margin: 20px 10px;
   padding: 20px 40px;
 }
+
+.exchange {
+  width: 330px;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #1D4F27;
+  margin: 25px auto 0 auto;
+}
+
+.exchange--visible {
+  margin-top: 10px;
+  height: 40px;
+  padding: 10px;
+}
+
+.exchange--closed {
+  height: 0px;
+  overflow: hidden;
+}
